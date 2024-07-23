@@ -1,6 +1,6 @@
 # Deepinder Randhawa - Data Analyst
 
-[LinkedIn: Deepinder Randhawa](https://www.linkedin.com/in/deepinder-randhawa)
+[LinkedIn: Deepinder Randhawa][(https://www.linkedin.com/in/deepinder-randhawa)](https://www.linkedin.com/in/da-deepinder-randhawa/)
 
 ## Skills
 - **SQL**: Advanced querying and database management
