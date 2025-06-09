@@ -14,10 +14,10 @@
 - **Statistics**: Analyzing and interpreting complex data
 
 ## About Me
-I am an accomplished and results-driven Data Analyst with over 6 years of experience in transforming complex data into strategic business insights. My background spans across the insurance, retail, and telecommunications sectors, where I have consistently delivered data-driven solutions that significantly boost operational efficiency and business growth.
+I am an accomplished and results-driven Data Analyst with over 5 years of experience in transforming complex data into strategic business insights. My background spans across the insurance, retail, and telecommunications sectors, where I have consistently delivered data-driven solutions that significantly boost operational efficiency and business growth.
 
 ## Professional Highlights
-- **Industry Expertise**: Extensive experience in insurance, retail, and telecommunications sectors.
+- **Industry Expertise**: Extensive experience in insurance and retail sectors.
 - **Technical Proficiency**: Mastery of tools like SQL, Python, Power BI, Tableau, Excel, Azure Synapse Analytics, and Snowflake.
 - **Business Impact**: Proven track record of leveraging data to drive business improvements and support decision-making processes.
 - **Communication Skills**: Adept at conveying complex technical concepts to non-technical stakeholders, ensuring clarity and alignment.
@@ -27,7 +27,6 @@ I am an accomplished and results-driven Data Analyst with over 6 years of experi
 ## Professional Experience
 - **Insurance**: Worked on data analysis for customer servicing and satisfaction support teams, delivering actionable insights.
 - **Retail**: Analyzed sales data to identify trends and opportunities for growth.
-- **Telecommunications**: Optimized network performance through data analysis and reporting.
 
 ## Personal Statement
 I am passionate about data and its potential to transform businesses. My goal is to continue leveraging my skills and experience to deliver insights that drive strategic decisions and operational improvements. I am committed to continuous learning and innovation, ensuring I stay at the forefront of the data analysis field.
